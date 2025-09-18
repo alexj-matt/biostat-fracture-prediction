@@ -5,9 +5,11 @@ An R-based logistic regression project from the **Applied Biostatistics** course
 ## Statistical methods
 
 Exploratory data analysis and model selection have been done using:
+*   Q-Q plots
+*   Correlation matrix
 *   ROC-AUC analysis
 *   Cook's Distance
-*   Stepwise model selection with AIC and BIC criteria.
+*   Stepwise model selection with AIC and BIC criteria
 
 ## Final Model
 
